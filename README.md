@@ -1,6 +1,6 @@
 # Bamazon
 
-* This application implements `Node,js` & `MySQL` to supply the user with a databases interface to select a product
+* This application implements `Node,js` & `MySQL` to supply the user with a 10-product database interface and it allows  selection a product
 * from a predetermined list classifying the item by ID, name, and price.
 
 * Upon selecting the product by ID and entering the desired purchase quantity, the app displays the Order subtotal.
