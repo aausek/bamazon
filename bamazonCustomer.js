@@ -37,9 +37,9 @@ connection.query("SELECT * FROM `products`", function (err, res) {
 		var products = [];
 		products.push(res[i].id);
 		products.push(res[i].product_name);
-		products.push(res[i].department_name);
+		//products.push(res[i].department_name);
 		products.push(res[i].price);
-		products.push(res[i].stock_quantity);
+		//products.push(res[i].stock_quantity);
 
 		coolTable.push(products);
 	}
