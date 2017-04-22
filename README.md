@@ -5,4 +5,6 @@
 
 * Upon selecting the product by ID and entering the desired purchase quantity, the app displays the Order subtotal.
 
-### Clone the repo and simply run `node bamazonCustomer.js` to experience the app for yourself!
+#### Clone the repo and simply run `node bamazonCustomer.js` to experience the app for yourself!
+
+* Click on this link https://www.youtube.com/watch?v=Tgkx1YnDknE to check out a demo of the app!
